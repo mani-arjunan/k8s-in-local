@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "docker build -t app-1:latest /Users/manikandanarjunan/personal/teaching/k8s/app1",
+    "start": "node index.js"
+  }
+}
