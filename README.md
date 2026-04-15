@@ -1,6 +1,6 @@
 # K8s Learning
 
-This repo consist of some yaml files from K8s with a simple node server app(3), the intent of this repo is to know about `pod`, `service` and what are
+This repo consist of some yaml files from K8s that hosts a `simple nodeJS server app(3)`, the intent of this repo is to deploy a simple application inside k8s in local machine and also to knoow about how networking works in k8s like `service` and what are
 `NodePort, ClusterIP and LoadBalancer` in service, `ingress` what is the diff between `ingress and service` etc.
 
 ## Start with
